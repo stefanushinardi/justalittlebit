@@ -8,7 +8,7 @@ Setelah mengerjakan beberapa proyek dan berbicara dengan beberapa orang, ternyat
 
 ### Password Hashing
 
-Apa itu fungsi hash? Fungsi hash adalah fungsi yang memetakan data dengan panjang arbitrary menjadi data dengan panjang yang tetap. Sering kali, tipe data output dari funsi hash adalah string. Fungsi hash biasanya memiliki beberapa karakteristik yang sangat sesuai untuk menyimpan password yaitu:
+Apa itu fungsi hash? Fungsi hash adalah fungsi yang memetakan data dengan panjang arbitrary menjadi data dengan panjang yang tetap. Sering kali, tipe data output dari fungsi hash adalah string. Fungsi hash biasanya memiliki beberapa karakteristik yang sangat sesuai untuk menyimpan password yaitu:
 
 1. Deterministic
 
